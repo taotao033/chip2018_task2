@@ -1,6 +1,6 @@
-Chip2018_task2 and Biendata competitions links:http://icrc.hitsz.edu.cn/chip2018/Task.html and https://biendata.com/competition/chip2018/
-Dataset Download Link:https://drive.google.com/drive/folders/1kDuR24xeIO97DSSxlPQU-F_GvZ6WAaUv?usp=sharing
 # Instruction:
+* Chip2018_task2 and Biendata competitions links:http://icrc.hitsz.edu.cn/chip2018/Task.html and https://biendata.com/competition/chip2018/
+* Dataset Download Link:https://drive.google.com/drive/folders/1kDuR24xeIO97DSSxlPQU-F_GvZ6WAaUv?usp=sharing
 ## Code instruction:
 * data_preprocess.py: Analysis data and generate features we need.
 * attention_model.py: Design model structure
@@ -70,7 +70,7 @@ mean-test 13.48, std-test 5.40, min-test 2.00, max-test 57.00
 * Dataset Analysis Base on char
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_2.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_3.png)
-![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_4_char_cloud.png)
+![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_4_char_could.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_5_base_char.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_6_base_char.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_7_q1_q2_intersect.png)
