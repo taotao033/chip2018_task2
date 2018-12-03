@@ -31,9 +31,9 @@ then you can submit.
 * questions_distance_features: cosine_distance,cityblock_distance,jaccard_distance,canberra_distance,euclidean_distance,minkowski_distance,braycurtis_distance,skew_q1vec,skew_q2vec,kur_q1vec
 
 * Word count: 
-mean-train 7.07, std-train 3.44, min-train 1.00, max-train 43.00, Total word count:7611
-mean-test 6.96, std-test 3.41, min-test 1.00, max-test 40.00
-(unique)Word_count_total:7611
+** mean-train 7.07, std-train 3.44, min-train 1.00, max-train 43.00, Total word count:7611
+** mean-test 6.96, std-test 3.41, min-test 1.00, max-test 40.00
+** (unique)Word_count_total:7611
 
 
 ## 2.base on char:
@@ -54,9 +54,9 @@ mean-test 6.96, std-test 3.41, min-test 1.00, max-test 40.00
 * questions_distance_features: cosine_distance,cityblock_distance,jaccard_distance,canberra_distance,euclidean_distance,minkowski_distance,braycurtis_distance,skew_q1vec,skew_q2vec,kur_q1vec
 
 * Char count:
-mean-train 13.73, std-train 5.34, min-train 2.00, max-train 54.00 
-mean-test 13.48, std-test 5.40, min-test 2.00, max-test 57.00
-(unique)Char_count_total:2085
+** mean-train 13.73, std-train 5.34, min-train 2.00, max-train 54.00 
+** mean-test 13.48, std-test 5.40, min-test 2.00, max-test 57.00
+** (unique)Char_count_total:2085
 
 ## Dataset Analysis
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_word/Figure_1.png)
