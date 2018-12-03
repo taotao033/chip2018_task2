@@ -10,7 +10,7 @@ Dataset Download Link:https://drive.google.com/drive/folders/1kDuR24xeIO97DSSxlP
 then you can submit.  
 * requirements.txt: Related packages environment, before train model you should to execute command 'pip install -r requirements' to install dependency.
 
-* Trainseting: the number of 0: 10000,the number of 1: 10000  total number:20000
+* Trainseting: the number of 0: 10000, the number of 1: 10000,  total number:20000
 * Testset: total number:10000
 
 ## 1.base on word:
