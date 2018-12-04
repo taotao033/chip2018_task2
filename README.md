@@ -59,6 +59,7 @@ mean-train 13.73, std-train 5.34, min-train 2.00, max-train 54.00, Total char co
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_word/Figure_4_base_word.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_word/Figure_5_base_word.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_word/Figure_6_q1_q2_intersect.png)
+**Figure**: q1_q2_intersect
 
 * Dataset Analysis Base on char
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_2.png)
@@ -67,3 +68,4 @@ mean-train 13.73, std-train 5.34, min-train 2.00, max-train 54.00, Total char co
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_5_base_char.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_6_base_char.png)
 ![Overall architecture](https://github.com/taotao033/chip2018_task2/blob/master/data_analysis/base_char/Figure_7_q1_q2_intersect.png)
+**Figure**: q1_q2_intersect
