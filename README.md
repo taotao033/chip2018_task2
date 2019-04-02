@@ -1,4 +1,4 @@
-# Instruction:
+# Instroduction:
 * Chip2018_task2 and Biendata competitions links:http://icrc.hitsz.edu.cn/chip2018/Task.html and https://biendata.com/competition/chip2018/
 * Dataset Download Link:https://drive.google.com/drive/folders/1kDuR24xeIO97DSSxlPQU-F_GvZ6WAaUv?usp=sharing
 ## Code instruction:
